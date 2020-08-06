@@ -1,0 +1,22 @@
+.dydis {
+  color: red;
+  font-size: 40px;
+}
+h1 {
+  background-color: rosybrown;
+}
+.bar {
+  color: blue;
+  font-size: 25px;
+}
+
+.grozis {
+  display: inline-block;
+  width: 600px;
+  height: 400px;
+  top: 100px;
+  left: 100px;
+
+  color: blue;
+  font-size: 25px;
+}
